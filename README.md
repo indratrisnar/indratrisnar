@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @indratrisnar
+- 👋 Hi, I’m @indratrisnar, Flutter Dev from Indonesia
 - 👀 I’m interested in Flutter Developer
 - 🌱 I’m currently learning Deep Flutter
 - 💞️ I’m looking to collaborate on Flutter
-- 📫 How to reach me ...
+- 📫 Project: trisnaindra1998@gmail.com
+- 📫 Company: indratrisnar@gmail.com
 
 <!---
 indratrisnar/indratrisnar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
