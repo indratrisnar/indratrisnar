@@ -6,7 +6,6 @@
 - 📫 Company: indratrisnar@gmail.com
 
 I'm looking for job as Flutter Developer (Remote / Full WFH).
-"do it as quickly as possible but in the right way, in order to get enough rest time"
 
 <!---
 indratrisnar/indratrisnar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
