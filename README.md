@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Flutter
 - 📫 Project: trisnaindra1998@gmail.com
 - 📫 Company: indratrisnar@gmail.com
+- Resume: https://indratrisnar.github.io/
+- Portfolio: https://flutterdlux.netlify.app/
 
 I'm looking for job as Flutter Developer (Remote / Full WFH).
 
