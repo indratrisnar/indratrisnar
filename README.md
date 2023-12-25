@@ -7,7 +7,7 @@
 - Resume: https://indratrisnar.github.io/
 - Portfolio: https://flutterdlux.netlify.app/
 
-I'm looking for job as Flutter Developer (Remote / Full WFH).
+I'm looking for job as Flutter Developer (Remote / WFA).
 
 <!---
 indratrisnar/indratrisnar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
