@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @indratrisnar, Flutter Dev from Indonesia
-- 👀 I’m interested in Flutter Developer
-- 🌱 I’m currently learning Deep Flutter
 - 💞️ I’m looking to collaborate on Flutter
 - 📫 Project: trisnaindra1998@gmail.com
 - 📫 Company: indratrisnar@gmail.com
