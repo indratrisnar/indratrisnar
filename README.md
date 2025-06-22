@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @indratrisnar, Flutter Dev from Indonesia
-- 💞️ I’m looking to collaborate on Flutter
-- 📫 Project: trisnaindra1998@gmail.com
-- 📫 Company: indratrisnar@gmail.com
-- Portfolio: https://indratrisnar.github.io/portfolio.html
-
-I'm looking for job as Flutter Developer (Remote / WFA).
+- 💞️ I’m looking for Flutter remote job
+- 📫 Project/dev: trisnaindra1998@gmail.com
+- 📫 Primary: indratrisnar@gmail.com
+- Portfolio: 
+  - https://indratrisnar.github.io/portfolio.html
+  - https://buildwithangga.com/mentor/indra_trisna#courses
+  - https://flutter-delux.pages.dev/
+  - https://fdelux.globeapp.dev/
 
 <div>
   <a href="https://github.com/indratrisnar">
